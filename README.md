@@ -52,4 +52,4 @@ The script returns:
 - a `TrajDataFrame`
 
 ## Examples
-You may find some examples of running the script and working with a `TrajDataFrame` in the [notebook page]()
+You may find some examples of running the script and working with a `TrajDataFrame` in the [notebook page](https://github.com/fblamanna/SUMO-to-TrajDataFrame/tree/main/notebook)
